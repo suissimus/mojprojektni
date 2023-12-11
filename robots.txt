@@ -1,0 +1,4 @@
+User-agent:  *
+Disallow:
+
+Sitemap:https://suissimus.github.io/mojprojektni/sitemap.xml
